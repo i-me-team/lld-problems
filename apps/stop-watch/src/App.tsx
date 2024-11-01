@@ -1,5 +1,7 @@
+import Stopwatch from './components/Stopwatch.tsx';
+
 const App: React.FC = () => {
-  return <div>Hello World!</div>;
+  return <Stopwatch />;
 };
 
 export default App;
