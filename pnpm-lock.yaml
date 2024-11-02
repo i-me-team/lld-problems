@@ -61,6 +61,15 @@ importers:
         specifier: ^5.0.8
         version: 5.4.10(@types/node@20.16.5)
 
+  apps/calculator:
+    dependencies:
+      react:
+        specifier: ^18.3.1
+        version: 18.3.1
+      react-dom:
+        specifier: ^18.3.1
+        version: 18.3.1(react@18.3.1)
+
   apps/nested-comments:
     dependencies:
       lucide-react:
